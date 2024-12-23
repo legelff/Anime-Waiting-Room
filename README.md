@@ -1,6 +1,8 @@
 # Anime Waiting Room
 A clean, responsive website to track countdowns for airing anime episodes. Built to make it easy for anime fans to keep track of their favorite shows in real-time!
 
+**New**: Added caching, user's anime selection now loads automatically.
+
 ## Desktop view
 ![animewaitingroomdesktop](./animeWaitingRoomDesktop.jpeg)
 
