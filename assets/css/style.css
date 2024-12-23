@@ -130,6 +130,7 @@ h1:hover::after {
     align-items: center;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
 }
 
 .watchnow {
@@ -322,6 +323,13 @@ a .disabled {
     /* align-items: center; */
     text-align: left;
     justify-content: left;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
 }
 
 .name a {
