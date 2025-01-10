@@ -131,6 +131,7 @@ h1:hover::after {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     text-align: center;
+    user-select: none;
 }
 
 .watchnow {
@@ -265,6 +266,17 @@ h1:hover::after {
     /* box-shadow: 0 0 10px rgba(0, 255, 0, 0.5); */
 }
 
+.unableToAdd {
+    border: 2px solid red;
+    color: red;
+    transition: border 1s, color 1s;
+}
+
+.unableToAdd:hover {
+    border: 2px solid red;
+    color: red;
+}
+
 /* .beta {
     position: absolute;
     right: 10px;
@@ -284,7 +296,7 @@ h1:hover::after {
     height: 54px;
     /* border: 2px solid #f8f9fa; */
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
     border-radius: 10px;
     cursor: pointer;
