@@ -25,7 +25,7 @@ A clean, responsive website to track countdowns for airing anime episodes. Built
 
 # How to Use
 ## Online
-https://www.l145.be/animewaitingroom.html
+https://www.l145.be/anime-waiting-room/
 
 ## Locally
 1. Clone the repo:
