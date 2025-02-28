@@ -2,7 +2,7 @@
 
 A clean, responsive website to track countdowns for airing anime episodes. Built to make it easy for anime fans to keep track of their favorite shows in real-time!
 
-**:warning: Important Note:** Files could be outdated, keep up to date with newest version on the [website](https://www.l145.be/animewaitingroom.html) itself.
+**:warning: Important Note:** Files could be outdated, keep up to date with newest version on the [website](https://www.l145.be/anime-waiting-room/) itself.
 
 **New**: Improved error handling, added MyAnimeList link to each anime, fixed timer, next episode release date adjusted to user's local time.
 
